@@ -1,0 +1,31 @@
+=== Pendientes ===
+· [_] «tarea1¦ pendiente»˛
+   ŧ20201230 Ŧ20210105 т2021/01/03
+     [[unaLiga|ąZZZZ]]
+     Descripcion general     
+     ° 2021/01/01    Ðdescribreµ.
+  ¸¸¸
+· [¬] «tarea2¦ trabajando»˛
+   ŧ20201230 Ŧ20210105 т2021/01/03
+     [[unaLiga|ąZZZZ]]
+     Descripcion general¢     
+     ° 2021/01/01    Ðdescribre@.
+  ¸¸¸
+· [Ø] «tarea3¦ realizada»˛
+   ŧ20201230 Ŧ20210105 т2021/01/03
+     [[unaLiga|ąZZZZ]]
+     Descripcion general©      
+     ° 2021/01/01    Ðdescribreł.
+  ¸¸¸
+· [C] «tarea4¦ cancelada»˛
+   ŧ20201230 Ŧ20210105 т2021/01/03
+     [[unaLiga|ąZZZZ]]
+     Descripcion general     
+     ° 2021/01/01    Ðdescribreµ.
+  ¸¸¸
+· [X] «tarea5¦ no realizado»˛
+   ŧ20201230 Ŧ20210105 т2021/01/03
+     [[unaLiga|ąZZZZ]]
+     Descripcion general     
+     ° 2021/01/01    Ðdescribreµ.
+  ¸¸¸

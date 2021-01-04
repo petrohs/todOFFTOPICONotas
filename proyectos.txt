@@ -1,0 +1,16 @@
+=== proyectos ===
+º [_] «proyecto pendiente»
+˛descripcion 
+del proyecto¸¸¸
+º [¬] «proyecto en curso»
+˛descripcion 
+del proyecto¸¸¸
+º [Ø] «proyecto realizado»
+˛descripcion 
+del proyecto¸¸¸
+º [C] «proyecto cancelado»
+˛descripcion 
+del proyecto¸¸¸
+º [X] «proyecto no realizado»
+˛descripcion 
+del proyecto¸¸¸

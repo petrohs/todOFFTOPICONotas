@@ -1,0 +1,6 @@
+=== Repetitivas ===
+÷ [_] ®diario «evento» ŧ20201110 Ŧ20211110
+÷ [¬] ®semanal «evento» ŧ20201110 Ŧ20211110
+÷ [ø] ®sabados «evento» ŧ20201110 Ŧ20211110
+÷ [c] ®mensual «evento» ŧ20201110 Ŧ20211110
+÷ [x] ®diario «evento» ŧ20201110 Ŧ20211110
