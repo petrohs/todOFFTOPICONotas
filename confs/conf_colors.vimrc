@@ -102,3 +102,10 @@ hi ToffpicEtiqCont guifg=white
 syntax match ToffpicTareaRepet /®\w\+/
 hi ToffpicTareaRepet gui=italic
 
+"Reporte actividades
+syntax match ToffpicHno /.*\[[xX]\].*Ħ.*/
+hi ToffpicHno guisp=brown gui=undercurl
+syntax match ToffpicHsi /.*\[[øØ]\].*Ħ.*/
+hi ToffpicHsi guisp=darkgreen gui=undercurl
+syntax match ToffpicH /.*\[_\].*Ħ.*/
+hi ToffpicH gui=underline
